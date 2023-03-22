@@ -1,0 +1,83 @@
+.container {
+    /* text-align: center; */
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-head {
+    font-size: 50px;
+    font-weight: 300;
+    text-align: center;
+
+}
+
+span {
+    color: blue;
+}
+
+
+
+.heading {
+    /* font-size: 15px; */
+    /* font-weight: 800; */
+    background-color: rgb(18, 83, 196);
+    border: 0.5px solid rgba(8, 95, 246, 0.662);
+    border-radius: 40px;
+    color: white;
+    padding: 12px;
+    /* width: max-content;
+    margin-left: auto;
+    margin-right: auto; */
+    margin-top: 20px;
+    text-align: center;
+}
+
+.form {
+    text-align: center;
+}
+
+#search-bar {
+    display: center;
+    width: 300px;
+    padding: 10px;
+    background-color: rgb(230, 228, 228);
+    border: 0px solid rgb(204, 204, 204);
+    border-radius: 40px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+button {
+    background-color: rgb(18, 83, 196);
+    border-radius: 40px;
+    border: 0px solid rgb(21, 21, 170);
+    color: white;
+    width: 85px;
+    padding: 10px;
+    font-weight: 600;
+
+}
+
+/* #listOfCentres{
+width: 100%;
+    
+} */
+
+#tableDetails {
+    color: white;
+    margin-top: 40px;
+    padding: 12px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+tr {
+    width: fit-content;
+    background-color: rgb(18, 83, 196);
+    border-bottom: 20px solid white;
+    line-height: 20px;
+    text-align: left;
+}
